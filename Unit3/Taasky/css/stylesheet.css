@@ -35,13 +35,12 @@ p {
 	color: #fff;
 }
 
-#button {
-	text-indent: -9999px;
-    background: url('../images/btn_store.png') no-repeat;
-    white-space: nowrap;   
-    margin-left: 135px;
-    width: 274px;
-    height: 74px;
+.button {
+	display: inline-block;
+	padding: 0;
+	border: none;
+	background: none;	
+	text-decoration: none;
 }
 
 a {
